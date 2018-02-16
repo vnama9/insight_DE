@@ -14,3 +14,4 @@ Output
 
 Comments are made in the file to understand the flow of the process 
 
+This process is also made to work by generating the workflow in alteryx.
